@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...cyberscurity
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...freelance projects
-- 📫 How to reach me ...chandagmwape@gmail.com
+- 📫 How to reach me ...@gmail.com
 
 <!---
 mwape-g/mwape-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
